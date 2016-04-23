@@ -1,0 +1,10 @@
+Flask==0.10.1
+Jinja2==2.8
+Werkzeug==0.11.3
+gunicorn==19.4.5
+itsdangerous==0.24
+MarkupSafe==0.23
+newrelic==2.60.0.46
+scrape_quora==0.1.2
+wsgiref==0.1.2
+lxml==3.5.0
